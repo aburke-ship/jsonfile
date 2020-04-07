@@ -1,0 +1,52 @@
+{
+  "pigs": [
+    {
+      "name": "Duroc",
+      "list_image": "duroc_list",
+      "desc_image": "duroc_desc",
+      "description": "The Duroc pig is an older breed of domestic pig. The breed was developed in the United States and formed the basis for many mixed-breed commercial hogs. Duroc pigs are reddish-brown, large-framed, medium length, and muscular, with partially-drooping ears. They tend to be one of the least aggressive of all swine breeds raised for meat."
+    },
+    {
+      "name": "Vietnamese Pot-bellied",
+      "list_image": "potbelly_list",
+      "desc_image": "potbelly_desc",
+      "description": "Vietnamese Pot-bellied is the exonym for the Lon I or I pig, an endangered traditional Vietnamese breed of small domestic pig. The I is uniformly black and has short legs and a low-hanging belly, from which the name derives.The I is reared for meat."
+    },
+    {
+      "name": "Mangalica",
+      "list_image": "mangalica_list",
+      "desc_image": "mangalica_desc",
+      "description": "The Mangalica is a Hungarian breed of domestic pig. It was developed in the mid-19th century by crossbreeding Hungarian breeds from Szalonta and Bakony with European wild boar and the Serbian Šumadija breed."
+    },
+    {
+      "name": "Large White",
+      "list_image": "largewhite_list",
+      "desc_image": "largewhite_desc",
+      "description": "The Large White is a British breed of domestic pig. It derives from the old Yorkshire breed from the county of Yorkshire, in northern England."
+    },
+    {
+      "name": "Hampshire",
+      "list_image": "hampshire_list",
+      "desc_image": "hampshire_desc",
+      "description": "The Hampshire pig is a domestic swine breed characterized by erect ears and a black body with a whitish band around the middle, covering the front legs."
+    },
+    {
+      "name": "Tamworth",
+      "list_image": "tamworth_list",
+      "desc_image": "tamworth_desc",
+      "description": "The Tamworth also known as Sandy Back and Tam, is a breed of domestic pig originating in its namesake Tamworth, Staffordshire United Kingdom, with input from Irish pigs."
+    },
+    {
+      "name": "Mukota",
+      "list_image": "mukota_list",
+      "desc_image": "mukota_desc",
+      "description": "Mukota is a breed of indigenous, domestic pig found primarily in Zimbabwe. It is also known as the Rhodesian Indigenous or Zimbabwe Indigenous pig."
+    },
+    {
+      "name": "Berkshire",
+      "list_image": "berkshire_list",
+      "desc_image": "berkshire_desc",
+      "description": "Berkshire pigs, also known as Kurobuta are a rare breed of pig originating from the English county of Berkshire that are bred and raised in several parts of the world, including England, Japan, the United States, Australia, and New Zealand."
+    }
+  ]
+}
